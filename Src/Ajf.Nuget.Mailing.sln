@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajf.Nuget.Mailing", "Ajf.Nuget.Mailing\Ajf.Nuget.Mailing.csproj", "{8AB556F5-E6D4-4B03-9626-9CC9B08FC64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajf.Nuget.Mailing.Tests", "Ajf.Nuget.Mailing.Tests\Ajf.Nuget.Mailing.Tests.csproj", "{B9C84DAE-9F2F-4950-B5F9-309EA56480F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB556F5-E6D4-4B03-9626-9CC9B08FC64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB556F5-E6D4-4B03-9626-9CC9B08FC64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB556F5-E6D4-4B03-9626-9CC9B08FC64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB556F5-E6D4-4B03-9626-9CC9B08FC64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C84DAE-9F2F-4950-B5F9-309EA56480F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C84DAE-9F2F-4950-B5F9-309EA56480F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C84DAE-9F2F-4950-B5F9-309EA56480F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C84DAE-9F2F-4950-B5F9-309EA56480F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C914A2CA-C8BB-46F1-8215-E9DD50233860}
+	EndGlobalSection
+EndGlobal
